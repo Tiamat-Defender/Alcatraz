@@ -1,5 +1,5 @@
 #include "obfuscator.h"
-
+#include <bit>
 #include <iostream>
 
 ZydisFormatter formatter;
